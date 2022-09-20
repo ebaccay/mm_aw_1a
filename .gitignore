@@ -1,0 +1,5 @@
+# General IDE Ignores
+.idea
+
+# Weird MacOS stuff
+.DS_Store
